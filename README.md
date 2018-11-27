@@ -5,7 +5,7 @@
 <div></div>
 
 This prototype is extremely unstable, and the api is expected to change constantly!
-<h3><b> __**NOT FOR PUBLIC CONSUMPTION**__ ,
+<h3><b> **__NOT FOR PUBLIC CONSUMPTION__** <br>
 I ADVISE THAT YOU DO NOT USE! <br>
 <sub> (Although you are more than welcome to if you desire.) </sub> </b></h3>
 
