@@ -4,8 +4,8 @@
 
 <div></div>
 
-This prototype is extremely unstable, and the api is expected to change constantly!
-<h3><b><u> NOT FOR PUBLIC CONSUMPTION </u><br>
-I ADVISE THAT YOU DO NOT USE! <br>
-<sub> (Although you are more than welcome to if you desire.) </sub> </b></h3>
+This prototype is extremely unstable, and the api is expected to change constantly!<div>
+** NOT FOR PUBLIC CONSUMPTION! ** <br></br>
+I ADVISE THAT YOU DO NOT USE!<br></br>
+<sub> (Although you are more than welcome to if you desire.) </sub>
 
